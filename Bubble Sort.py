@@ -1,4 +1,4 @@
-#Bubble Sort Implementation Practice
+#Bubble Sort Algorithm Implementation Practice
 
 def bubble_sort(list_of_nums):
     unsorted_list = len(list_of_nums) - 1
@@ -12,9 +12,5 @@ def bubble_sort(list_of_nums):
         
 
 
-list_of_nums = [70,45,98,1,2,6,4,100,3,20,40,5]
 
-bubble_sort(list_of_nums)
-
-print(list_of_nums)
 
